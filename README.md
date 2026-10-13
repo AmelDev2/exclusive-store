@@ -1,16 +1,30 @@
-# React + Vite
+# Exclusive - E-Commerce Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An advanced e-commerce web platform built to deliver a seamless online shopping experience, featuring user authentication, secure checkout, product management...
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+- **Live URL:** [https://exclusive-store-ruddy.vercel.app](https://exclusive-store-ruddy.vercel.app)
+- **GitHub Repository:** [https://github.com/AmelDev2/exclusive-store](https://github.com/AmelDev2/exclusive-store)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technical Stack & Tools
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend Framework:** React 19, Vite
+- **Styling:** Tailwind CSS for responsive and modern UI/UX design
+- **Routing:** React Router DOM for seamless Single Page Application (SPA) navigation
+- **Backend & Authentication:** Supabase (Auth & User Database Management)
+- **Icons & UI Enhancements:** Lucide React
+
+
+---
+
+## 📌 Key Features
+
+1. **User Authentication & Management:** Secure sign-up, login, and dynamic user profile updates powered by Supabase Auth.
+2. **Interactive Shopping Cart & Wishlist:** Add products, manage quantities, and utilize the "Move All to Bag" feature.
+3. **Optimized Checkout Flow:** Dynamic billing details, responsive forms, and smooth success state handling.
+4. **Responsive Design:** Fully adaptive layout ensuring an optimal shopping experience across mobile, tablet, and desktop screens.
