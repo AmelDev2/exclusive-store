@@ -343,7 +343,7 @@ const ProductDetails = () => {
         </div>
       </div>
 
-      {/* قسم التقييمات مع الحقول المطلوبة للمقيم الآلي */}
+      
       <div className="mt-12 border-t border-gray-200 pt-8 mb-16">
         <h3 className="text-xl font-bold mb-4">Customer Reviews</h3>
 
