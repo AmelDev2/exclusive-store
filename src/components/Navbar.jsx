@@ -208,7 +208,7 @@ const Navbar = () => {
 
           {/* تحويل اللغات */}
           <div
-            data-testid="language-toggle"
+            data-testid="lang-switch"
             className="px-2 py-1 text-xs lg:text-sm font-medium border border-gray-300 rounded-md hover:bg-gray-100 transition-colors"
           >
             <GoogleTranslate />
